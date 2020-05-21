@@ -1,2 +1,0 @@
-# angulartraining
-My angular training
